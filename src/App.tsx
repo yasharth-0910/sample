@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ChevronRight, Github, Linkedin, Mail, Menu } from 'lucide-react'
+import {  Github, Linkedin, Mail, Menu } from 'lucide-react'
 
 export default function Component() {
   const [activeCategory, setActiveCategory] = useState('AI')
